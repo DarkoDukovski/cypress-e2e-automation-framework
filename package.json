@@ -1,0 +1,14 @@
+{
+  "name": "cypress-e2e-automation-framework",
+  "version": "1.0.0",
+  "description": "Automated E2E tests with Cypress for login, signup, form, and navigation scenarios",
+  "author": "Darko Dukovski",
+  "type": "commonjs",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.9.0"
+  }
+}

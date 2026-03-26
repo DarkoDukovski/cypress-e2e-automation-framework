@@ -1,0 +1,15 @@
+{
+  "firstName": "Darko",
+  "lastName": "Dukovski",
+  "email": "darko@test.com",
+  "gender": "Male",
+  "mobile": "0701234567",
+  "dateOfBirth": {
+    "day": "010",
+    "month": "May",
+    "year": "1998"
+  },
+  "subject": "Maths",
+  "hobby": "Sports",
+  "address": "Bitola, North Macedonia"
+}

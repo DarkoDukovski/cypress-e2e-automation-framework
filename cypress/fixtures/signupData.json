@@ -1,0 +1,15 @@
+{
+  "name": "Darko Test",
+  "password": "Test12345",
+  "gender": "Mr",
+  "day": "10",
+  "month": "May",
+  "year": "1998",
+  "firstName": "Darko",
+  "lastName": "Dukovski",
+  "address": "Bitola Street 1",
+  "state": "Bitola",
+  "city": "Bitola",
+  "zipcode": "7000",
+  "mobileNumber": "070123456"
+}
