@@ -28,8 +28,8 @@ Automated end-to-end and API tests built with [Cypress](https://www.cypress.io/)
 ### Installation
 
 ```bash
-git clone https://github.com/DarkoDukovski/Cypress-e2e-automation-framework.git
-cd Cypress-e2e-automation-framework
+git clone https://github.com/DarkoDukovski/cypress-e2e-automation-framework.git
+cd cypress-e2e-automation-framework
 npm install
 ```
 
